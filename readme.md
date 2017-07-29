@@ -9,7 +9,9 @@ run composer install
 ```
 composer install
 ```
-
+```
+php artisan migrate:refresh --seed 
+```
 
 
 ### Featured Demos ###
