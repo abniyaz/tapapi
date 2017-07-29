@@ -13,6 +13,6 @@ composer install
 <p align="center">
 <img src="https://preview.ibb.co/g6mUx5/tap1.jpg" />
 
-<img src="https://thumb.ibb.co/gZKSjk/tap2.jpg" height="150" />&nbsp;
+<img src="https://preview.ibb.co/d6zSjk/tap2.jpg" height="150" />&nbsp;
 
 </p>
